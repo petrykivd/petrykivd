@@ -14,7 +14,7 @@ I'm a beginner python developer<img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: I am a student of Mate Academy.
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-petrykivdmytro-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/accbuyer19) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:petrykiv.dmytro19@gmail.com)
+- :mailbox: How to contact me: <br>[![Telegram Badge](https://img.shields.io/badge/-petrykivdmytro-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/accbuyer19) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:petrykiv.dmytro19@gmail.com)
 
 ---
 
