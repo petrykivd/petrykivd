@@ -7,7 +7,7 @@
 
 I'm a beginner python developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
 - :seedling: Took several courses on Stepik.
